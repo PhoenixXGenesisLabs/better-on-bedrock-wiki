@@ -1,5 +1,5 @@
 # Quests
-Quests are way for players to do task while also being rewarded for it! They also act as a guide for the player while they play the Add-On. Quests are not required.
+Quests are way for players to do task while also being rewarded for it! They also act as a guide for the player while they play the add-on. Quests are not required.
 
 ## The Basics
 Once you open the quest scroll, you will be prompted with this menu.
@@ -7,7 +7,7 @@ Once you open the quest scroll, you will be prompted with this menu.
   <img src="/Main/assets/quests/first_page.png" alt="Example Image">
 </div>
 
-`Main` is the base set of quests. They consist of quest tiers. Each tier has its own set of quests, and the are progressive.
+`Main` is the base set of quests. They consist of quest tiers. Each tier has its own set of quests, and they are progressive.
 
 <div style="display: flex; align-items: center;">
   <img src="/Main/assets/quests/quest_tiers.png" alt="Example Image">
