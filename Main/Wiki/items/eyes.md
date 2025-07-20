@@ -6,9 +6,9 @@
     <img src="/Main/assets/inferno_eye.png" alt="Example Image" width="64">
     <img src="/Main/assets/samurai_eye.png" alt="Example Image" width="64">
 </div>
-Progression to the end has changed. Players are required to defeat 3 bosses in the overworld, like the Willager, Enchantaegis, and Flender, and 2 bosses in the Nether, being the Shielded Pyroclast (Inferior) or the Withered Samurai.
+Progression to The End has changed. Players are required to defeat 3 bosses in the overworld, like the Willager, Enchantaegis, and Flender, and 2 bosses in the Nether, being the Shielded Pyroclast (Inferior) or the Withered Samurai.
 
-Each boss drops an eye upon defeat, and the player uses these eyes to craft eyes of ender. They will receive 12 Eyes of Ender.
+Each boss drops an eye upon defeat, and the player uses these eyes to craft eyes of ender. They will receive 12 Eyes of Ender as a crafting table output.
 
 ## Crafting Recipe:
 
